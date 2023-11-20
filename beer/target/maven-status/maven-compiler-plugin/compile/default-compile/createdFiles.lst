@@ -1,0 +1,8 @@
+com\beluga\beer\config\ModelMapperConfig.class
+com\beluga\beer\dto\BeerDTO.class
+com\beluga\beer\controller\BeerController.class
+com\beluga\beer\service\BeerService.class
+com\beluga\beer\BeerApplication.class
+com\beluga\beer\model\Beer.class
+com\beluga\beer\repository\BeerRepository.class
+com\beluga\beer\dto\CreateBeerDTO.class

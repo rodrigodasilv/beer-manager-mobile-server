@@ -60,6 +60,8 @@ public class Beer {
         this.available = available;
     }
 
+    public Beer(){}
+
     public Long getId() {
         return id;
     }
